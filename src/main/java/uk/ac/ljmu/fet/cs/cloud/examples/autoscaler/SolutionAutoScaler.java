@@ -35,7 +35,7 @@ import hu.mta.sztaki.lpds.cloud.simulator.iaas.VirtualMachine;
  * an initial pooling mechanism which has 4 (by default) machines boot on
  * creation, allowing for less delay times when requiring to scale.
  * 
- * @author "cgor
+ * @author "cgor"
  */
 public class SolutionAutoScaler extends VirtualInfrastructure {
 
